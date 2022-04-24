@@ -1,0 +1,6 @@
+name: BungeeChannel
+version: '${project.version}'
+main: com.ruserious99.bungeechannel.BungeeChannel
+api-version: 1.18
+authors: [ RuSerious99 ]
+description: comm betwwen servers
